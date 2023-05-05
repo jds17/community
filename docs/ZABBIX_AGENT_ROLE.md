@@ -292,7 +292,7 @@ Otherwise it just for the Zabbix Agent or for the Zabbix Agent 2.
 
 **NOTE**
 
-_Supporting Windows is a best effort (We don't have the possibility to either test/verify changes on the various amount of available Windows instances). PRs specific to Windows will almost immediately be merged, unless someone is able to provide a Windows test mechanism via Travis for Pull Requests._
+_Supporting macOS is a best effort (We don't have the possibility to either test/verify changes on the various amount of available macOS instances). PRs specific to macOS will almost immediately be merged, unless someone is able to provide a macOS test mechanism via Travis for Pull Requests._
 
 * `zabbix_version_long`: The long (major.minor.patch) version of the Zabbix Agent. This will be used to generate the `zabbix_mac_download_link` link.
 * `zabbix_mac_download_link`: The download url to the `pkg` file.
